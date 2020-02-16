@@ -8,6 +8,7 @@
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/linlak/xamarin-momo.git</RepositoryUrl>
     <PackageProjectUrl>https://github.com/linlak/xamarin-momo</PackageProjectUrl>
+    <Authors>Linus Nowomukama</Authors>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
