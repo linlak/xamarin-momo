@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Company>LinWorld Tech Solutions</Company>
+    <Description>This is a Xamarin Forms Library for conecting with Momo Api</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/linlak/xamarin-momo.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/linlak/xamarin-momo</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
